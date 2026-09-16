@@ -4,14 +4,12 @@ Software, data & applied AI.
 
 I build software and explore practical applications of data and AI.
 
-## Focus
+## Current focus
 
-- Software development and web applications
-- Data analysis and analytics
-- Applied AI, agents and workflow automation
+| Software | Data & analytics | Applied AI |
+| :--- | :--- | :--- |
+| Web applications and software tools designed around practical needs. | Data analysis and analytics to turn information into useful insights. | AI agents and automation for practical workflows. |
 
-## About this portfolio
-
-This profile is a space for selected demos and technical case studies, with an emphasis on design decisions and results.
+Selected demos and technical case studies will highlight design decisions and results.
 
 Production systems, client work and proprietary code remain private.
