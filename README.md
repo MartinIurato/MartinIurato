@@ -1,12 +1,17 @@
-- 👋 Hi, I’m @MartinIurato
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# Martín Iurato
 
-<!---
-MartinIurato/MartinIurato is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software, data & applied AI.
+
+I build software and explore practical applications of data and AI.
+
+## Focus
+
+- Software development and web applications
+- Data analysis and analytics
+- Applied AI, agents and workflow automation
+
+## About this portfolio
+
+This profile is a space for selected demos and technical case studies, with an emphasis on design decisions and results.
+
+Production systems, client work and proprietary code remain private.
