@@ -12,4 +12,6 @@ I build software and explore practical applications of data and AI.
 
 Selected demos and technical case studies will highlight design decisions and results.
 
+CV: [martiniurato.github.io/cv-site](https://martiniurato.github.io/cv-site/)
+
 Production systems, client work and proprietary code remain private.
